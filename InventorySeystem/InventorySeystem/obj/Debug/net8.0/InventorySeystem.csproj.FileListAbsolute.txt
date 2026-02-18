@@ -1,0 +1,14 @@
+D:\c#_Projects\InventorySeystem\InventorySeystem\bin\Debug\net8.0\InventorySeystem.exe
+D:\c#_Projects\InventorySeystem\InventorySeystem\bin\Debug\net8.0\InventorySeystem.deps.json
+D:\c#_Projects\InventorySeystem\InventorySeystem\bin\Debug\net8.0\InventorySeystem.runtimeconfig.json
+D:\c#_Projects\InventorySeystem\InventorySeystem\bin\Debug\net8.0\InventorySeystem.dll
+D:\c#_Projects\InventorySeystem\InventorySeystem\bin\Debug\net8.0\InventorySeystem.pdb
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\InventorySeystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\InventorySeystem.AssemblyInfoInputs.cache
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\InventorySeystem.AssemblyInfo.cs
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\InventorySeystem.csproj.CoreCompileInputs.cache
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\InventorySeystem.dll
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\refint\InventorySeystem.dll
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\InventorySeystem.pdb
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\InventorySeystem.genruntimeconfig.cache
+D:\c#_Projects\InventorySeystem\InventorySeystem\obj\Debug\net8.0\ref\InventorySeystem.dll
