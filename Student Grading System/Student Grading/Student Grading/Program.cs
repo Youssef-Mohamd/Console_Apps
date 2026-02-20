@@ -53,10 +53,12 @@ namespace Student_Grading
             gradingSystem.DisplayStudentGrades(students, calculateAverage , CheckIfStudentPassed, DisplayData); // used func to pass the method to calculate the average grade for each student
         }
 
-        private static void DisplayData(Student student, double arg2, bool arg3)
-        {
-            string status = arg3 ? "Passed" : "Failed";
-        }
+       private static void DisplayData(Student student, double average, bool isPassed)
+         {
+    string status = isPassed ? "Passed" : "Failed";
+
+    Console.WriteLine($"Student: {student.Name} - Average: {average} - Status: {status}");
+          }
 
         private static bool CheckIfStudentPassed(double averageValue)
         {
@@ -78,3 +80,4 @@ namespace Student_Grading
         }
     }
 }
+
